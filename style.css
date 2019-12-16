@@ -1,0 +1,22 @@
+/*for comments*/
+*{
+  font-family: sans-serif;  /*For The Font*/
+}
+
+/*Make largest headings red*/
+h1{
+  color: red;
+}
+/*Put a black border around every element with a class of active*/
+.active{
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+}
+/*Put this as a repeating background image*/
+body{
+  background-color: white url(https://cdn.pixabay.com/photo/2016/10/20/18/35/sunrise-1756274_640.jpg) repeat top right;
+}
+p{
+  margin: 20px;
+}
