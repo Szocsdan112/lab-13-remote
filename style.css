@@ -14,8 +14,8 @@ h1{
   border-width: 1px;
 }
 /*Put this as a repeating background image*/
-body{
-  background-color: white url(https://cdn.pixabay.com/photo/2016/10/20/18/35/sunrise-1756274_640.jpg) repeat top right;
+body {
+  background-color: #DADBC5;
 }
 p{
   margin: 20px;
